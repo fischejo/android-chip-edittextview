@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chips">
+        <item>Adjektiv</item>
+        <item>Verb</item>
+        <item>Nomen</item>
+        <item>Feminin</item>
+        <item>Maskulin</item>
+        <item>Neutrum</item>
+        <item>transitiv</item>
+        <item>intransitiv</item>
+    </string-array>
+</resources>

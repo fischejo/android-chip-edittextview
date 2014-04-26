@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChipEditTextView Sample</string>
+    <string name="publish">Show Chips</string>
+
+    <string name="sample_one_hint">Non editable chips</string>
+	<string name="sample_two_hint">Editable chips</string>
+	<string name="sample_three_hint">Predefined chips</string>
+	<string name="sample_four_hint">Upper case chips</string>
+	<string name="sample_five_hint">Reversed, non-selectable chips</string>
+	<string name="sample_six_hint">Shrink on focus deactivated</string>
+</resources>
