@@ -50,7 +50,7 @@ Usage
         chipEditTextView.setOnFocusShrinkChips(false);
     
     
- 5. You can use the `ChipCreator` and BaseChip interface to implement your custom chips:
+ 5. You can use the `ChipCreator` and `BaseChip` interface to implement your custom chips:
 
 
         private static class DefinedChipCreator implements ChipCreator {
