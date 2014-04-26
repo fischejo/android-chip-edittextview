@@ -3,9 +3,9 @@ Introduction
 
 ChipEditTextView is a modified RecipientEditTextView, which is an auto complete text view for use with applications that use the new Chips UI for showing tags. Instead of supporting phone numbers and email addresses, only normal tags are supported. 
 
+![Alt text](screen0.png)&nbsp;
 ![Alt text](screen1.png)&nbsp;
-![Alt text](screen2.png)&nbsp;
-![Alt text](screen3.png)
+![Alt text](screen2.png)
 
 Features
 ========
