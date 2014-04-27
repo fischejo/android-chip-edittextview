@@ -25,7 +25,7 @@ Removed features are:
  
 Usage
 =====
- 1. Fork & import chips-library as project.
+ 1. Clone & import chips-library as project.
  2. Add library reference to your target project.
  3. Define `chipEditTextViewStyle` in your app theme:
 
@@ -50,7 +50,7 @@ Usage
         chipEditTextView.setOnFocusShrinkChips(false);
     
     
- 5. You can use the `ChipCreator` and `BaseChip` interface to implement your custom chips:
+ 5. You can use the `ChipCreator` and `BaseChip` interfaces to implement your custom chips:
 
 
         private static class DefinedChipCreator implements ChipCreator {
